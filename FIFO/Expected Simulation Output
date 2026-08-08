@@ -1,0 +1,9 @@
+Time=0   WR=0 RD=0 DataIn=0  DataOut=0  Full=0 Empty=1
+Time=10  WR=1 RD=0 DataIn=10 DataOut=0  Full=0 Empty=0
+Time=20  WR=1 RD=0 DataIn=20 DataOut=0  Full=0 Empty=0
+Time=30  WR=1 RD=0 DataIn=30 DataOut=0  Full=0 Empty=0
+Time=40  WR=1 RD=0 DataIn=40 DataOut=0  Full=0 Empty=0
+Time=50  WR=0 RD=1 DataIn=40 DataOut=10 Full=0 Empty=0
+Time=60  WR=0 RD=1 DataIn=40 DataOut=20 Full=0 Empty=0
+Time=70  WR=0 RD=1 DataIn=40 DataOut=30 Full=0 Empty=0
+Time=80  WR=0 RD=1 DataIn=40 DataOut=40 Full=0 Empty=1
